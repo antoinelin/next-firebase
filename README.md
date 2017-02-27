@@ -4,7 +4,7 @@
 Simple sample for connect Firebase on a Next.js project
 Based on Next.js from [ZEIT](https://zeit.co/)
 
-**Live demo :** https://next-firebase-zurgsdohsz.now.sh/
+**Live demo :** [next-firebase.now](https://next-firebase-bkfsmmjnsh.now.sh)
 
 ## Using
 
