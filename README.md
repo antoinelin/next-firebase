@@ -6,7 +6,7 @@ Based on Next.js from [ZEIT](https://zeit.co/)
 
 **Live demo :** [next-firebase.now](https://next-firebase-bkfsmmjnsh.now.sh)
 
-## Using
+## Stacks
 
 - [React](https://facebook.github.io/react/)
 - [Redux](http://redux.js.org/)
@@ -29,3 +29,5 @@ Run dev:
 ```shell
 $ yarn dev
 ```
+## How
+Coming (very) soon...
